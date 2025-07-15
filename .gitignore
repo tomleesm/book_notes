@@ -1,0 +1,12 @@
+# Local Netlify folder
+.netlify
+
+/node_modules/
+/.vitepress/dist
+/.vitepress/cache
+/.npm/
+
+/yarn.lock
+/.yarnrc
+/.ash_history
+/.cache/
