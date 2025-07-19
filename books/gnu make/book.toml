@@ -1,0 +1,5 @@
+[book]
+authors = ["Tom"]
+language = "en"
+src = "src"
+title = "GNU Make 專案開發工具"
